@@ -1,42 +1,42 @@
 [
 			{
 				"id": 1,
-				"name": "TipeshMeipash. Updater with Adult Add-Ons",
+				"name": "TipeshMeipash Media with Adult Add-Ons",
 				"description": "TipeshMeipash Build with Adult Add-Ons",
 				"screenshot_url": "https://classprefect.000webhostapp.com/TipeshMeipash/secondlogo.jpg",
 				"brand_url": "https://www.dropbox.com/s/9ii4czxvqhrm5dm/mammoth_16.1.zip?dl=1",
 				"version": 39,
-				"update_details": "<b>7/19/17 MANDATORY UPDATE. FRESH INSTALL IS REQUIRED!!! DO NOT USE SAVE USER SETTINGS!!!</b><br>-  New Colossus Repo and Covenant Update<br>- New Smash Repo<br>- New Sportsdevil Update<br>- General Database Cleanup",
+				"update_details": "<b>SomeThing Bold here</b><br>-  1st point<br>- 2nd point bold<br>- 3rd bold point<br>- last point",
 				"notification": "Notification text here"
 			},
 			{
 				"id": 2,
-				"name": "TipeshMeipash. Updater without Adult Add-Ons Family Friendly",
+				"name": "TipeshMeipash Media without Adult Add-Ons Family Friendly",
 				"description": "TipeshMeipash Build Family Friendly Version",
 				"screenshot_url": "https://classprefect.000webhostapp.com/TipeshMeipash/secondlogo.jpg",
 				"brand_url": "https://www.dropbox.com/s/9ii4czxvqhrm5dm/mammoth_16.1.zip?dl=1",
 				"version": 39,
-				"update_details": "<b>7/19/17 MANDATORY UPDATE. FRESH INSTALL IS REQUIRED!!! DO NOT USE SAVE USER SETTINGS!!!</b><br>-  New Colossus Repo and Covenant Update<br>- New Smash Repo<br>- New Sportsdevil Update<br>- General Database Cleanup",
+				"update_details": "<b>SomeThing Bold here</b><br>-  1st point<br>- 2nd point bold<br>- 3rd bold point<br>- last point",
 				"notification": "Notification text here"
 			},
 			{
 				"id": 3,
-				"name": "abubakar Mobdro",
-				"description": "Mobdro Streaming App - Newest Version",
+				"name": " Netflix",
+				"description": "Netflix with ultra High Quality",
 				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
-				"brand_url": "	https://s3.amazonaws.com/skystream/Mobdro/mobdro.apk",
-				"version": 25,
-				"update_details": "Newest Version",
+				"brand_url": "	https://s3.amazonaws.com/skystream/Netflix/netflixlatest.ultrahd.apk",
+				"version": 1,
+				"update_details": "<b>bold Subcription info<br>Some more info<br>Some more bold here</b><br>- bold how to insatll here<br>- Instructions here<br>- More info",
 				"notification": "Notification text here"
 			},
 			{
 				"id": 4,
-				"name": "2929 Netflix Ultra HD",
-				"description": "Netflix with Ultra HD Option",
+				"name": " Mobdro",
+				"description": "Mobdro Streaming App latest version",
 				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
-				"brand_url": "	https://s3.amazonaws.com/skystream/Netflix/netflixlatest.ultrahd.apk",
-				"version": 1,
-				"update_details": "<b>Must have Netflix subscription<br>This version will allow for 4K streaming if you have the Ultra HD subscription<br>Will stream in higher quality without Ultra HD subscription</b><br>- Must uninstall current version first, then run this update<br>- Instructions for TipeshMeipash - Settings => Other => More Settings => Apps => Netflix => Uninstall<br>- For TipeshMeipash - Settings => Apps => Scroll right to Netflix => Uninstall",
+				"brand_url": "	https://s3.amazonaws.com/skystream/Mobdro/mobdro.apk",
+				"version": 25,
+				"update_details": "latest Version",
 				"notification": "Notification text here"
 			}
 ]
