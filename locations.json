@@ -38,5 +38,14 @@
 				"version": 25,
 				"update_details": "latest Version",
 				"notification": "Notification text here"
+			},
+			{
+				"id": 5,
+				"name": "3333 Testing app 2",
+				"description": "New Version",
+				"screenshot_url": "www.bing.com",
+				"brand_url": "www.bing.com",
+				"version": 14,
+				"update_details": "New Improvements"
 			}
 ]
