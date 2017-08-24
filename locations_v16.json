@@ -1,22 +1,22 @@
 [
 			{
 				"id": 1,
-				"name": "TipeshMeipash Media with Adult Add-Ons",
-				"description": "TipeshMeipash Build with Adult Add-Ons",
+				"name": "Project M build",
+				"description": "a build with just ProjectM addon",
 				"screenshot_url": "https://classprefect.000webhostapp.com/TipeshMeipash/secondlogo.jpg",
-				"brand_url": "https://www.dropbox.com/s/9ii4czxvqhrm5dm/mammoth_16.1.zip?dl=1",
+				"brand_url": "https://www.dropbox.com/s/kuhtzglkwx2bch2/ProjectM_build.zip?dl=1",
 				"version": 39,
-				"update_details": "<b>SomeThing Bold here</b><br>-  1st point<br>- 2nd point bold<br>- 3rd bold point<br>- last point",
+				"update_details": "<b>a build with just ProjectM addon</b><br>-  1st point<br>- 2nd point bold<br>- 3rd bold point<br>- last point",
 				"notification": "Notification text here"
 			},
 			{
 				"id": 2,
-				"name": "TipeshMeipash Media without Adult Add-Ons Family Friendly",
-				"description": "TipeshMeipash Build Family Friendly Version",
+				"name": "Youtube build",
+				"description": "a build with just youtube addon",
 				"screenshot_url": "https://classprefect.000webhostapp.com/TipeshMeipash/secondlogo.jpg",
-				"brand_url": "https://www.dropbox.com/s/9ii4czxvqhrm5dm/mammoth_16.1.zip?dl=1",
+				"brand_url": "https://www.dropbox.com/s/p2qbyfti5vbsrx0/Youtube_build.zip?dl=1",
 				"version": 39,
-				"update_details": "<b>SomeThing Bold here</b><br>-  1st point<br>- 2nd point bold<br>- 3rd bold point<br>- last point",
+				"update_details": "<b>a build with just youtube addon</b><br>-  1st point<br>- 2nd point bold<br>- 3rd bold point<br>- last point",
 				"notification": "Notification text here"
 			},
 			{
