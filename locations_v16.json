@@ -41,11 +41,11 @@
 			},
 			{
 				"id": 5,
-				"name": "3333 Testing app 2",
-				"description": "New Version",
-				"screenshot_url": "www.bing.com",
-				"brand_url": "www.bing.com",
+				"name": "ES Explorer",
+				"description": "ES File Explorer helps manage your android phone and files efficiently and effectively",
+				"screenshot_url": "https://lh3.googleusercontent.com/GXJtgfcxiEaLabZDmJasdFYB74hSSz1M5fdpKA0wPAmobuI1uc6mcSH_tTdu5XpQaNES=w300",
+				"brand_url": "http://mrwizard.x10host.com/home/APKs/ES%20File%20Explorer%20File%20Manager-4.1.6.6.2.apk",
 				"version": 14,
-				"update_details": "New Improvements"
+				"update_details": "Notification text here"
 			}
 ]
