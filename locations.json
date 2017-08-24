@@ -7,7 +7,7 @@
 				"brand_url": "https://www.dropbox.com/s/9ii4czxvqhrm5dm/mammoth_16.1.zip?dl=1",
 				"version": 39,
 				"update_details": "<b>a build family friendly addons</b><br>- This is Mammoth build<br>- credits to Mammoth who created it<br>- Xonfluence skin<br>- version 39",
-				"notification": "Notification text here"
+				"notification": "added on 25 August 2017"
 			},
 			{
 				"id": 2,
@@ -26,18 +26,18 @@
 				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
 				"brand_url": "http://mrwizard.x10host.com/home/APKs/netflix.apk",
 				"version": 1,
-				"update_details": "<b>bold Subcription info<br>Some more info<br>Some more bold here</b><br>- bold how to insatll here<br>- Instructions here<br>- More info",
-				"notification": "Notification text here"
+				"update_details": "<b>subcribe it<br> <br> </b><br>- install it<br>- <br>- version 1",
+				"notification": "added on 25 August 2017"
 			},
 			{
 				"id": 4,
 				"name": " Mobdro",
 				"description": "Mobdro Streaming App latest version",
 				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
-				"brand_url": "	http://mrwizard.x10host.com/home/APKs/mobdro.apk",
+				"brand_url": "http://mrwizard.x10host.com/home/APKs/mobdro.apk",
 				"version": 21412576,
-				"update_details": "latest Version",
-				"notification": "Notification text here"
+				"update_details": "it is freemium --  version 21",
+				"notification": "added on 25 August 2017"
 			},
 			{
 				"id": 5,
@@ -46,6 +46,7 @@
 				"screenshot_url": "https://lh3.googleusercontent.com/GXJtgfcxiEaLabZDmJasdFYB74hSSz1M5fdpKA0wPAmobuI1uc6mcSH_tTdu5XpQaNES=w300",
 				"brand_url": "http://mrwizard.x10host.com/home/APKs/ES%20File%20Explorer%20File%20Manager-4.1.6.6.2.apk",
 				"version": 14,
-				"update_details": "Notification text here"
+				"update_details": "a top File Manager"
+				"notification": "added on 25 August 2017"
 			}
 ]
