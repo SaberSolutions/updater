@@ -1,23 +1,23 @@
 [
 			{
 				"id": 1,
-				"name": "Project M build",
-				"description": "a build with just ProjectM addon",
+				"name": "The Mammoth build -family friendly",
+				"description": "a build with for family and kids",
 				"screenshot_url": "https://classprefect.000webhostapp.com/TipeshMeipash/secondlogo.jpg",
-				"brand_url": "https://www.dropbox.com/s/pzogcni1sufb078/ProjectM_build.zip?dl=1",
+				"brand_url": "https://www.dropbox.com/s/9ii4czxvqhrm5dm/mammoth_16.1.zip?dl=1",
 				"version": 39,
-				"update_details": "<b>a build with just ProjectM addon</b><br>-  1st point<br>- 2nd point bold<br>- 3rd bold point<br>- last point",
+				"update_details": "<b>a build family friendly addons</b><br>- This is Mammoth build<br>- credits to Mammoth who created it<br>- Xonfluence skin<br>- version 39",
 				"notification": "Notification text here"
 			},
 			{
 				"id": 2,
-				"name": "Youtube build",
-				"description": "a build with just youtube addon",
+				"name": "The Griff build -adult contents included",
+				"description": "a build for adults only",
 				"screenshot_url": "https://classprefect.000webhostapp.com/TipeshMeipash/secondlogo.jpg",
-				"brand_url": "https://www.dropbox.com/s/vwr7q5eq04lsb9o/Youtube_build.zip?dl=1",
+				"brand_url": "https://www.dropbox.com/s/bc9k7j6na0n5imr/theGriffBuildxxx.zip?dl=1",
 				"version": 39,
-				"update_details": "<b>a build with just youtube addon</b><br>-  1st point<br>- 2nd point bold<br>- 3rd bold point<br>- last point",
-				"notification": "Notification text here"
+				"update_details": "<b>A build with adult addon included in it</b><br>-  this is Griff build<br>- credits to Griff who created it<br>- Aeon nox skin<br>- version 39",
+				"notification": "added on 25 August 2017"
 			},
 			{
 				"id": 3,
